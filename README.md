@@ -10,4 +10,4 @@
 - GOOGL – Alphabet
 - NVDA – NVIDIA
   
-[לצפייה במערכת ב-Streamlit](https://smart-stock-advisorr.streamlit.app)
+[לצפייה במערכת ב-Streamlit](https://smart-stock-advisor-final.streamlit.app/)
