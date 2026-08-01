@@ -1,2 +1,12 @@
-# stock-direction-prediction
-Final project for stock direction prediction using Python and Power BI
+# Smart Stock Advisor System
+
+מערכת תומכת החלטה ליועצי השקעות, שפותחה במסגרת פרויקט גמר לתואר B.Sc. במערכות מידע בהתמחות במדעי הנתונים.
+
+המערכת מסייעת ליועץ לבצע התאמה ראשונית ללקוח חדש באמצעות שאלון פרופיל השקעה, השוואה בין מניות, ניתוח ביצועים היסטוריים, הצגת תחזיות מודל וקליטת נתונים חדשים.
+
+הפרויקט מתמקד במניות:
+
+- AAPL – Apple
+- GOOGL – Alphabet
+- NVDA – NVIDIA
+[לצפייה במערכת ב-Streamlit](https://smart-stock-advisorr.streamlit.app)
